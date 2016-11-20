@@ -1,7 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <includes_templates>
-      <template name="Magento 2 License.php" reformat="true" live-template-enabled="true" />
-    </includes_templates>
-  </component>
-</application>
